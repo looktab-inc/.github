@@ -1,34 +1,31 @@
-# SOLANA Grizzlython
+# Web3athon
+
+![Web3athon Image](https://miro.medium.com/v2/resize:fit:1200/1*bZkfCfY0UsHatxhfh2TRpQ.jpeg)
+
+## TINJI - Community driven foodie curation service
+
+Tinji is a Community-driven foodie curation service. We eat everyday but we are always hesitating about what to eat. There are tons of apps that share restaurant ratings, most notably Yelp, which is a $2.3 Billion market cap. Users write reviews on Google and restaurant apps, and unwittingly promote restaurants on social media, but they are not rewarded for doing so. We solve this problem with Tinji. Tinji is a community-driven foodie curation service that reduces users' browsing time and rewards them for leaving a review of a restaurant. Users can earn rewards for recommending restaurants by owning your reviews as NFTs.
 
 
-TINJI is NFT Marketing Tool
-Low cost, High performance with Dynamic NFTs.
+### 👉  Tinji pitch deck
 
-Local businesses can attract local customers by airdropping dNFTs. Airdrops NFTs based on user location. The ads can reach customers 100% by making them swipe the dNFTs to receive them. This way, local businesses can decrease marketing costs and increase their advertising performance. Additionally, users can earn coupon benefits and tokens by viewing the ads.
+[Tinji Pitch Deck](https://docs.google.com/presentation/d/1qT52-7Uyka7XfhfSvr9IvW_sTefDzf-dIJj8FVmxOmg/edit#slide=id.g24d0a55657a_0_12)
 
+### 👉  Tinji Demo Video
 
+[Tinji Demo Video](https://www.youtube.com/watch?v=smAmQFwvNLc)
 
-### 👉 About our service site
+### 👉 Tinji Mobile App
 
-https://www.tinji.space
+[Tinji Mobile App Repo](https://github.com/looktab-inc/ProtocolCamp_App)
 
-### 👉  About our pitch deck
+### 👉 Tinji Backend
 
-https://docs.google.com/presentation/d/1zWp6U2fSvwTA-H7zuUARtYt96seIfRCyfE7nefBBQZM
+[Tinji Backend Repo](https://github.com/looktab-inc/ProtocolCamp_BackEnd)
 
-### 👉 Tinji Mobile App (Android)
+### 👉 Tinji Solana Smart Contract 
 
-https://github.com/looktab-inc/Solana-Tinji-App
+[Tinji Solana Smart Contract Repo](https://github.com/looktab-inc/ProtocolCamp_Contract)
 
-### 👉 Tinji Admin
-
-https://github.com/looktab-inc/Solana-Tinji-Admin
-
-### 👉 Tinji Solana Contract 
-
-https://github.com/looktab-inc/Solana-Tinji-metabuild
-
-
-![Grizzlython](https://solana.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhero-bg-bottom.7ba62055.svg&w=3840&q=75)
  
 
