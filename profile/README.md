@@ -27,5 +27,6 @@ Tinji is a Community-driven foodie curation service. We eat everyday but we are 
 
 [Tinji Solana Smart Contract Repo](https://github.com/looktab-inc/ProtocolCamp_Contract)
 
- 
+### 👉 Tinji Client For Smart Contract 
 
+[Tinji Client For Smart Contract](https://github.com/looktab-inc/ProtocolCamp_Client-For-Contract)
